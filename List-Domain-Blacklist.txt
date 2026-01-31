@@ -18,6 +18,7 @@ bf.jlbflive.cc
 mobaelo2000.cc
 hell1-kitty.cc
 b.ooze.cc
+s3-updatehub.cc
 electrumx.ddns.net
 yuio.top
 hofw.pw
