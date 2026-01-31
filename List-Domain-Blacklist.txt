@@ -22,3 +22,6 @@ electrumx.ddns.net
 yuio.top
 hofw.pw
 microservice-update-s2-bucket.cc
+s3-updatehub.cc
+static.aisports.cc
+ip.cip.cc
