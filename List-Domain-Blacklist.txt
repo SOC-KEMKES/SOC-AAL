@@ -27,9 +27,6 @@ microservice-update-s2-bucket.cc
 s3-updatehub.cc
 static.aisports.cc
 ip.cip.cc
-thetracker.org
-tracker.dler.org
-www.wareztorrent.com
 pragmatic88gacor.life
 pool.hashvault.pro
 www.testupdate.info
